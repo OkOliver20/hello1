@@ -1,0 +1,36 @@
+img{
+    border-radius:20px;
+    width: 50px;
+    height: 50px;
+
+  }
+  body{
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+   
+  }
+  h1{
+    
+      font-size:20px;
+  }
+  #n1{
+    padding:20px;
+    font-size:18px;
+    text-align:center
+  }
+  #cat:hover{
+      font-size: 40px;
+      background-color: papayawhip;
+  }
+  #cat2:hover{
+    font-size: 40px;
+    background-color: papayawhip;
+} #cat3:hover{
+  font-size: 40px;
+  background-color: papayawhip;
+} #cat4:hover{
+  font-size: 40px;
+  background-color: papayawhip;
+}
+  
